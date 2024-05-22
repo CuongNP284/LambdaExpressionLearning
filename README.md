@@ -1,8 +1,9 @@
-# Welcome to Lambda Expression Learning Repository
+# Welcome to Lambda Expression Learning Repository 
+[![CI with GitHub Actions using Ant and JUnit 4.x | © 2024 by Cuong-Nguyen-Phu](https://github.com/CuongNP284/LambdaExpressionLearning/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/CuongNP284/LambdaExpressionLearning/actions/workflows/ci-with-ant.yml)
 ### You will find in this repo the following stuff:
 * What is Lambda Expression? 
 * Set up Lambda Expression
-* Code some basic stuffs by Lambda Expression (a Java-based source code)
+* Code some basic stuff by Lambda Expression (a Java-based source code)
 * ...
 
 
