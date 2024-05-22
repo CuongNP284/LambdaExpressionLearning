@@ -7,5 +7,7 @@
 * Code some basic stuff by Lambda Expression (a Java-based source code)
 * ...
 
+### Screenshots
+![Lambda Expression Test](https://github.com/CuongNP284/LambdaExpressionLearning/blob/main/images/Lambda%20Expression.png)
 
 #### © 2024 Cuong-Nguyen-Phu
